@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586918723 source:c:\users\user\desktop\c++ tests\as\date.cpp
+	"Date.h"
+	<iostream>
+
+1586918363 c:\users\user\desktop\c++ tests\as\date.h
+	<iostream>
+
+1586918663 source:c:\users\user\desktop\c++ tests\as\main.cpp
+	<iostream>
+	"Date.h"
+
